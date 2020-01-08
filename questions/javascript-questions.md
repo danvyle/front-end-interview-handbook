@@ -2,21 +2,21 @@
 
 Answers to [Front-end Job Interview Questions - JS Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/src/questions/javascript-questions.md). Pull requests for suggestions and corrections are welcome!
 
-* [Explain event delegation](#explain-event-delegation)
+<!-- * [Explain event delegation](#explain-event-delegation) -->
 * [Explain how `this` works in JavaScript](#explain-how-this-works-in-javascript)
-* [Explain how prototypal inheritance works](#explain-how-prototypal-inheritance-works)
+<!-- * [Explain how prototypal inheritance works](#explain-how-prototypal-inheritance-works) -->
 * [What do you think of AMD vs CommonJS?](#what-do-you-think-of-amd-vs-commonjs)
 * [Explain why the following doesn't work as an IIFE: `function foo(){ }();`. What needs to be changed to properly make it an IIFE?](#explain-why-the-following-doesnt-work-as-an-iife-function-foo--what-needs-to-be-changed-to-properly-make-it-an-iife)
-* [What's the difference between a variable that is: `null`, `undefined` or undeclared? How would you go about checking for any of these states?](#whats-the-difference-between-a-variable-that-is-null-undefined-or-undeclared-how-would-you-go-about-checking-for-any-of-these-states)
-* [What is a closure, and how/why would you use one?](#what-is-a-closure-and-howwhy-would-you-use-one)
-* [Can you describe the main difference between a `.forEach` loop and a `.map()` loop and why you would pick one versus the other?](#can-you-describe-the-main-difference-between-a-foreach-loop-and-a-map-loop-and-why-you-would-pick-one-versus-the-other)
+<!-- * [What's the difference between a variable that is: `null`, `undefined` or undeclared? How would you go about checking for any of these states?](#whats-the-difference-between-a-variable-that-is-null-undefined-or-undeclared-how-would-you-go-about-checking-for-any-of-these-states) -->
+<!-- * [What is a closure, and how/why would you use one?](#what-is-a-closure-and-howwhy-would-you-use-one) -->
+<!-- * [Can you describe the main difference between a `.forEach` loop and a `.map()` loop and why you would pick one versus the other?](#can-you-describe-the-main-difference-between-a-foreach-loop-and-a-map-loop-and-why-you-would-pick-one-versus-the-other) -->
 * [What's a typical use case for anonymous functions?](#whats-a-typical-use-case-for-anonymous-functions)
 * [How do you organize your code? (module pattern, classical inheritance?)](#how-do-you-organize-your-code-module-pattern-classical-inheritance)
 * [What's the difference between host objects and native objects?](#whats-the-difference-between-host-objects-and-native-objects)
 * [Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?](#difference-between-function-person-var-person--person-and-var-person--new-person)
 * [What's the difference between `.call` and `.apply`?](#whats-the-difference-between-call-and-apply)
 * [Explain `Function.prototype.bind`.](#explain-functionprototypebind)
-* [When would you use `document.write()`?](#when-would-you-use-documentwrite)
+<!-- * [When would you use `document.write()`?](#when-would-you-use-documentwrite) -->
 * [What's the difference between feature detection, feature inference, and using the UA string?](#whats-the-difference-between-feature-detection-feature-inference-and-using-the-ua-string)
 * [Explain Ajax in as much detail as possible.](#explain-ajax-in-as-much-detail-as-possible)
 * [What are the advantages and disadvantages of using Ajax?](#what-are-the-advantages-and-disadvantages-of-using-ajax)
@@ -715,7 +715,7 @@ Or with ES6:
 ```js
 const duplicate = (arr) => [...arr, ...arr];
 
-duplicate([1, 2, 3, 4, 5]); // [1,2,3,4,5,1,2,3,4,5] 
+duplicate([1, 2, 3, 4, 5]); // [1,2,3,4,5,1,2,3,4,5]
 ```
 
 [[↑] Back to top](#js-questions)
