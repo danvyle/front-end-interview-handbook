@@ -22,11 +22,11 @@ Answers to [Front-end Job Interview Questions - JS Questions](https://github.com
 * [What are the advantages and disadvantages of using Ajax?](#what-are-the-advantages-and-disadvantages-of-using-ajax)
 * [Explain how JSONP works (and how it's not really Ajax).](#explain-how-jsonp-works-and-how-its-not-really-ajax)
 * [Have you ever used JavaScript templating? If so, what libraries have you used?](#have-you-ever-used-javascript-templating-if-so-what-libraries-have-you-used)
-* [Explain "hoisting".](#explain-hoisting)
+<!-- * [Explain "hoisting".](#explain-hoisting) -->
 * [Describe event bubbling.](#describe-event-bubbling)
-* [What's the difference between an "attribute" and a "property"?](#whats-the-difference-between-an-attribute-and-a-property)
+<!-- * [What's the difference between an "attribute" and a "property"?](#whats-the-difference-between-an-attribute-and-a-property) -->
 * [Why is extending built-in JavaScript objects not a good idea?](#why-is-extending-built-in-javascript-objects-not-a-good-idea)
-* [Difference between document `load` event and document `DOMContentLoaded` event?](#difference-between-document-load-event-and-document-domcontentloaded-event)
+<!-- * [Difference between document `load` event and document `DOMContentLoaded` event?](#difference-between-document-load-event-and-document-domcontentloaded-event) -->
 * [What is the difference between `==` and `===`?](#what-is-the-difference-between--and-)
 * [Explain the same-origin policy with regards to JavaScript.](#explain-the-same-origin-policy-with-regards-to-javascript)
 * [Make this work: `duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]`](#make-this-work)
