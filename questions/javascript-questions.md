@@ -11,7 +11,8 @@ Answers to [Front-end Job Interview Questions - JS Questions](https://github.com
 <!-- * [What is a closure, and how/why would you use one?](#what-is-a-closure-and-howwhy-would-you-use-one) -->
 <!-- * [Can you describe the main difference between a `.forEach` loop and a `.map()` loop and why you would pick one versus the other?](#can-you-describe-the-main-difference-between-a-foreach-loop-and-a-map-loop-and-why-you-would-pick-one-versus-the-other) -->
 * [What's a typical use case for anonymous functions?](#whats-a-typical-use-case-for-anonymous-functions)
-* [How do you organize your code? (module pattern, classical inheritance?)](#how-do-you-organize-your-code-module-pattern-classical-inheritance)
+<!-- * [How do you organize your code? (module pattern, -->
+classical inheritance?)](#how-do-you-organize-your-code-module-pattern-classical-inheritance) 
 * [What's the difference between host objects and native objects?](#whats-the-difference-between-host-objects-and-native-objects)
 * [Difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?](#difference-between-function-person-var-person--person-and-var-person--new-person)
 * [What's the difference between `.call` and `.apply`?](#whats-the-difference-between-call-and-apply)
