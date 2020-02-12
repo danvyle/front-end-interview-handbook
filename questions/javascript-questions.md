@@ -3,7 +3,7 @@
 Answers to [Front-end Job Interview Questions - JS Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/src/questions/javascript-questions.md). Pull requests for suggestions and corrections are welcome!
 
 <!-- * [Explain event delegation](#explain-event-delegation) -->
-* [Explain how `this` works in JavaScript](#explain-how-this-works-in-javascript)
+<!-- * [Explain how `this` works in JavaScript](#explain-how-this-works-in-javascript) -->
 <!-- * [Explain how prototypal inheritance works](#explain-how-prototypal-inheritance-works) -->
 * [What do you think of AMD vs CommonJS?](#what-do-you-think-of-amd-vs-commonjs)
 <!-- * [Explain why the following doesn't work as an IIFE: `function foo(){ }();`. What needs to be changed to properly make it an IIFE?](#explain-why-the-following-doesnt-work-as-an-iife-function-foo--what-needs-to-be-changed-to-properly-make-it-an-iife) -->
