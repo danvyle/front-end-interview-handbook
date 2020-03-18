@@ -18,7 +18,7 @@ Answers to [Front-end Job Interview Questions - JS Questions](https://github.com
 <!-- * [What's the difference between `.call` and `.apply`?](#whats-the-difference-between-call-and-apply) -->
 * [Explain `Function.prototype.bind`.](#explain-functionprototypebind)
 <!-- * [When would you use `document.write()`?](#when-would-you-use-documentwrite) -->
-* [What's the difference between feature detection, feature inference, and using the UA string?](#whats-the-difference-between-feature-detection-feature-inference-and-using-the-ua-string)
+<!-- * [What's the difference between feature detection, feature inference, and using the UA string?](#whats-the-difference-between-feature-detection-feature-inference-and-using-the-ua-string) -->
 <!-- * [Explain Ajax in as much detail as possible.](#explain-ajax-in-as-much-detail-as-possible)
 * [What are the advantages and disadvantages of using Ajax?](#what-are-the-advantages-and-disadvantages-of-using-ajax)
 * [Explain how JSONP works (and how it's not really Ajax).](#explain-how-jsonp-works-and-how-its-not-really-ajax) -->
